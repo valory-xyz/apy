@@ -53,7 +53,7 @@ connections: []
 contracts: []
 protocols: []
 skills:
-- valory/abstract_round_abci:0.1.0:bafybeih2soag6gy472x7vbbxmetmr532jqzm2efcapymi3725as33fvjvu
+- valory/abstract_round_abci:0.1.0:bafybeibiw4oqwqvo4jccwz5fb73iardzychgvcl66tceiildohoju2ikti
 behaviours:
   main:
     args: {}
@@ -278,7 +278,7 @@ dependencies:
   numpy:
     version: ==1.23.5
   open-aea-test-autonomy:
-    version: ==0.14.14
+    version: ==0.18.2
   optuna:
     version: ==2.10.1
   pandas:
